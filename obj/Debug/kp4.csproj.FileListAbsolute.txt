@@ -1,0 +1,8 @@
+C:\Users\ura04\Desktop\Прога\kp4\bin\Debug\kp4.exe.config
+C:\Users\ura04\Desktop\Прога\kp4\bin\Debug\kp4.exe
+C:\Users\ura04\Desktop\Прога\kp4\bin\Debug\kp4.pdb
+C:\Users\ura04\Desktop\Прога\kp4\obj\Debug\kp4.csproj.AssemblyReference.cache
+C:\Users\ura04\Desktop\Прога\kp4\obj\Debug\kp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ura04\Desktop\Прога\kp4\obj\Debug\kp4.csproj.CoreCompileInputs.cache
+C:\Users\ura04\Desktop\Прога\kp4\obj\Debug\kp4.exe
+C:\Users\ura04\Desktop\Прога\kp4\obj\Debug\kp4.pdb
